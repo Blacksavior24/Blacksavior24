@@ -2,7 +2,7 @@
 <h3 align="center";color: rgb(251, 255, 0);">Web Full Stack Developer</h3>
 <br>
 
-Algo sobre mi:
+Algo sobre mí
 <br>                                     
 Me gusta...                                       
 <ul>
