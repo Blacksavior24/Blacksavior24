@@ -22,7 +22,6 @@ Prefiero...
 Que estoy haciendo...
 <ul>
 <li>Proyecto personal de almacenes y kardex</li>
-<li>Buscando trabajo luego de la Universidad y SoyHenry </li>
 <li>Aprendiendo cada dia un poquito mas (react native-kotlin-flutter)</li>
 </ul>
 <br>
