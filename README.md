@@ -32,10 +32,10 @@ Contactame...
 <br>
 <ul> 
 <li> <a href="https://www.linkedin.com/in/emerson-villalta-1b09a01aa/">LinkedIn</a> <img height=15 width=20 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/agust%C3%ADn-villagr%C3%A1n/"/></li>
-<li><a href="mailto:reaperfocs@gmail.com">Email 📩</a></li>
+<li><a href="mailto:reaperfocs@gmail.com">Email</a></li>
 <br>
 
-<h3 align="center">Skills / Habilidades 🚀</h3>
+<h3 align="center">Skills / Habilidades</h3>
 </ul>
 <li >Lenguajes</li>
     <br>
