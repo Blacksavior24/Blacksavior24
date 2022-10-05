@@ -20,7 +20,7 @@ Contact me...
 
 <h3 align="center">Skills / Habilidades</h3>
 </ul>
-<li >Programming languages and others</li>
+<li type="square">Programming languages and others: </li>
     <br>
     <p>
       <ul>
@@ -32,7 +32,7 @@ Contact me...
       </ul>
     </p>
     <br>
-      <li >Front-end</li>
+      <li type="square">Front-end:</li>
     <br>
       <p>
       <ul>
@@ -43,7 +43,7 @@ Contact me...
       </p>
 
 
-  <li >Back-end</li>
+  <li type="square">Back-end: </li>
     <br>
     <p>
     <ul>
@@ -53,7 +53,7 @@ Contact me...
       <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" alt="sequelize" width="40" height="40"/> Flask</li>                                                                                                                                                 
     </ul>
     </p>
-  <li >Database</li>
+  <li type="square">Database:</li>
     <br>
     <p>
       <ul>
@@ -62,7 +62,7 @@ Contact me...
     </ul>
     </p>
 <br>
-  <li >Some Work Tools</li>
+  <li type="square">Some Work Tools: </li>
     <br>
     <p>
     <ul>
