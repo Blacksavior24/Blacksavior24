@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Emerson Villalta</h1>
 <h3 align="center";color: rgb(251, 255, 0);">Full Stack Web Developer</h3>
 <br>
-About me
+                                            <h1>About me</h1>
 <br>                                     
-I like it...                                       
+I like it...      
+<br>                                           
 <ul>
 <li>Back-end web and mobile app development</li>
 <li>The collectible card games (or tcg) </li>
