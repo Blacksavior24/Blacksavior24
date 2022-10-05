@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Emerson Villalta</h1>
+<h1 align="center">Hi!, I'm Emerson Villalta</h1>
 <h3 align="center";color: rgb(251, 255, 0);">Full Stack Web Developer</h3>
 <br>
                                             <h1>About me</h1>
@@ -11,18 +11,6 @@ I like it...
 <li> The Strategy Games </li>
 </ul>
 
-<br>
-Prefiero...
-<ul>
-<li>Codear con musica EDM </li> 
-<li>Las cryptos y los nft</li>
-</ul>
-<br>
-Que estoy haciendo...
-<ul>
-<li>Proyecto personal de almacenes y kardex</li>
-<li>Aprendiendo cada dia un poquito mas (react native-kotlin-flutter)</li>
-</ul>
 <br>
 <h3 align="center">Deseas saber mas de mi? 👇🏽</h3>
 <br>
