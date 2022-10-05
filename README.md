@@ -10,11 +10,8 @@ I like it...
 <li>The collectible card games (or tcg) </li>
 <li> The Strategy Games </li>
 </ul>
-
 <br>
-<h3 align="center">Deseas saber mas de mi? 👇🏽</h3>
-<br>
-Contactame...
+Contact me...
 <br>
 <ul> 
 <li> <a href="https://www.linkedin.com/in/emerson-villalta-1b09a01aa/">LinkedIn</a> <img height=15 width=20 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/agust%C3%ADn-villagr%C3%A1n/"/></li>
@@ -23,7 +20,7 @@ Contactame...
 
 <h3 align="center">Skills / Habilidades</h3>
 </ul>
-<li >Lenguajes</li>
+<li >Programming languages and others</li>
     <br>
     <p>
       <ul>
@@ -65,7 +62,7 @@ Contactame...
     </ul>
     </p>
 <br>
-  <li >Herramientas de Trabajo</li>
+  <li >Some Work Tools</li>
     <br>
     <p>
     <ul>
