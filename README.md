@@ -1,15 +1,13 @@
-<h1 align="center">Bienvenid@! Soy Emerson Villalta</h1>
-<h3 align="center";color: rgb(251, 255, 0);">Web Full Stack Developer</h3>
+<h1 align="center">Hi, I'm Emerson Villalta</h1>
+<h3 align="center";color: rgb(251, 255, 0);">Full Stack Web Developer</h3>
 <br>
-
-Algo sobre mí
+About me
 <br>                                     
-Me gusta...                                       
+I like it...                                       
 <ul>
-<li>El desarrollo web back-end y aplicaciones móviles</li>
-<li>Los juegos de cartas coleccionables(o tcg)</li>
-<li>Los juegos de estrategia </li>
-<li>Las series medievales</li>
+<li>Back-end web and mobile app development</li>
+<li>The collectible card games (or tcg) </li>
+<li> The Strategy Games </li>
 </ul>
 
 <br>
