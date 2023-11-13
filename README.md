@@ -6,7 +6,7 @@
 I like it...      
 <br>                                           
 <ul>
-<li>Back-end web and mobile app development</li>
+<li>Full Stack web and mobile app development</li>
 <li>The collectible card games (or tcg) </li>
 <li> The Strategy Games </li>
 </ul>
